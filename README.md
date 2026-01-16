@@ -1,5 +1,3 @@
-# WORK IN PROGRESS - MAY NOT BE FUNCTIONAL YET
-
 # OneLoader for Mac
 OneLoader port for the OMORI Apple Silicon Patch.
 
